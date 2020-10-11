@@ -1,4 +1,7 @@
 /* CSS rule for container displaying full height image */
+body, html {
+  height: 100%;
+}.\
 #header-image {
 	height: 100%;
 	
