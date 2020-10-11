@@ -1,4 +1,5 @@
-/* CSS rule for container displaying full height image */
+/* CSS rules for container displaying full height image */
+
 body, html {
   height: 100%;
 }
